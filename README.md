@@ -24,7 +24,7 @@ A Java-based web crawler with TF-IDF ranking and cosine similarity implementatio
 - Jsoup 1.17.2
 
 ```bash
-git clone https://github.com/your-username/WebCrawler.git
+git clone https://github.com/YassenAli/WebCrawler.git
 ```
 
 ### IDE Setup (IntelliJ)
